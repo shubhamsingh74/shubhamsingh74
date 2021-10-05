@@ -1,10 +1,5 @@
-
 <h1 align="center">Hey 👋, I'm SHUBHAM SINGH!</h1>
 <h3 align="center">I am SHUBHAM SINGH,an exuberant tech and Open-Source enthusiast,pursuing my Bachelors in Computer Science & Engineering and a self taught programmer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh74&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh74" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsingh74" alt="shubhamsingh74" /></a> </p>
 
 - 🔭 I’m currently working on **Face Detection Using DL.**
 
@@ -17,8 +12,6 @@
 - 💬 Ask me about **Web and Tech Stuffs.**
 
 - 📫 How to reach me **shubhamsingh74970@gmail.com**
-
-- 😄 Pronouns: He/His.
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
