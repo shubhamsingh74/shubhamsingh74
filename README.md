@@ -1,7 +1,7 @@
 <h1 align="Left">Hey 👋, I'm SHUBHAM SINGH!</h1>
 <h3 align="Left">I am SHUBHAM SINGH,an exuberant tech and Open-Source enthusiast,pursuing my Bachelors in Computer Science & Engineering and a self taught programmer.</h3>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/shubhamsingh74/shubhamsingh74/blob/main/WhatsApp%20Image%202021-10-05%20at%2012.24.21%20PM.jpeg?raw=true" width="500" height="320" />
 
 
 
