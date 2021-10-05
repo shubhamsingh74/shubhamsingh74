@@ -1,6 +1,10 @@
 <h1 align="Left">Hey 👋, I'm SHUBHAM SINGH!</h1>
 <h3 align="Left">I am SHUBHAM SINGH,an exuberant tech and Open-Source enthusiast,pursuing my Bachelors in Computer Science & Engineering and a self taught programmer.</h3>
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
+
 - 🔭 I’m currently working on **Face Detection Using DL.**
 
 - 🌱 I’m currently learning **MERN stack.**
