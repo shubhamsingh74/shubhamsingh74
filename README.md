@@ -1,14 +1,29 @@
 ![](https://media.licdn.com/dms/image/D4D16AQEBN3niq1uqkA/profile-displaybackgroundimage-shrink_350_1400/0/1677258089528?e=1687392000&v=beta&t=SqujMFcq0-InSQLrnDtzgfyfYHuJMop27MyyOhDu_uQ)
 
-# 👨‍💻 SHUBHAM SINGH -->>>
-Hi, I'm Shubham Singh, a highly motivated Mobile Application Developer in Flutter and Kotlin. My focus is on creating innovative, user-friendly apps that solve real-world problems. I have a strong background in Android app development e-commerce using Flutter. I'm also skilled in frontend and backend development with flutter, nodejs , mongodb and Firebase, and scaling products through REST API. I've worked on various projects, including an Instagram clone, ChatBuddy using api of CHATGPT and DALL-E, a video conferencing app using jisti_meet_wrapper, and a shoe-commerce app called ShoeKart. I'm actively seeking an internship or full-time role as an app developer and enjoy staying up-to-date with the latest technological developments in the industry. Thanks for stopping by!<br><br>💻 Flutter Developer<br><br>🤝 Looking to collaborate on Flutter<br><br>🤠 Open Source Enthusiast<br><br>👨‍💻 I’m currently working on Food-Delivery App and Ecommerce Grocery App<br><br>🌱 I’m exploring Nodejs and MongoDB<br><br>📝 I write tweets or posts on Twitter and Linkedin<br><br>💬 Ask me about Flutter, Dart, Kotlin, RestApi, and C++ .<br><br>📫 How to reach me shubhamsingh74970@gmail.com<br><br>
+# 👨‍💻 SHUBHAM SINGH ..!
+- 👋 Hi, I’m @ShubhamSingh
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning web3
+- 📫 How to reach me?
+- My twitter: https://x.com/devsinghshubham
+- My e-mail adress: shubhamsingh74970@gmail.com
+- My Linkedin profile: https://www.linkedin.com/in/shubhamsingh2135/
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamsingh2135) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devsinghshubham) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) !![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shubhamsingh74&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamsingh74&theme=vue&hide_border=false)<br/>
